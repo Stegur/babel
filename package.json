@@ -1,0 +1,27 @@
+{
+  "name": "babel",
+  "version": "1.0.0",
+  "description": "babel",
+  "main": "index.js",
+  "dependencies": {
+    "core-js": "^3.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stegur/babel.git"
+  },
+  "keywords": [
+    "babel"
+  ],
+  "author": "Stegur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stegur/babel/issues"
+  },
+  "homepage": "https://github.com/Stegur/babel#readme"
+}
